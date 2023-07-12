@@ -30,22 +30,22 @@ A DataFrame that summarizes key metrics about each school to include:
 * % overall passing (the percentage of students who passed math AND reading)<br><br>
 
 **Highest-Performing Schools (by % Overall Passing)** <br>
-A Dataframe that sorts the highest-performaing schools by % Overall Passing in descending order.
+A Dataframe that sorts the highest-performing schools by % Overall Passing in descending order.
 
 ![image](https://github.com/RachaelCaldwell/pandas-challenge/blob/main/PyCitySchools/Images/Highest-Performing%20Schools.png?raw=true)<br><br>
 
 **Lowest-Performing Schools (by % Overall Passing)** <br>
-A Dataframe that sorts the lowest-performaing schools by % Overall Passing in ascending order.
+A Dataframe that sorts the lowest-performing schools by % Overall Passing in ascending order.
 
 ![image](https://github.com/RachaelCaldwell/pandas-challenge/assets/134207637/b6153318-9a80-4b26-adf9-7c1ef2abcfe7)<br><br>
 
 **Math Scores by Grade** <br>
-A DataFrame that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+A DataFrame that lists the average math score for students in each grade level (9th, 10th, 11th, 12th) by school.
 
 ![image](https://github.com/RachaelCaldwell/pandas-challenge/blob/main/PyCitySchools/Images/Math%20Scores%20by%20Grade.png?raw=true)<br><br>
 
 **Reading Scores by Grade** <br>
-A DataFrame that lists the average reading score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+A DataFrame that lists the average reading score for students in each grade level (9th, 10th, 11th, 12th) by school.
 
 ![image](https://github.com/RachaelCaldwell/pandas-challenge/blob/main/PyCitySchools/Images/Reading%20Scores%20by%20Grade.png?raw=true)<br><br>
 
