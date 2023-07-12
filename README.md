@@ -30,7 +30,7 @@ A DataFrame that summarizes key metrics about each school to include:
 
 **Highest-Performing Schools (by % Overall Passing)** <br>
 A Dataframe that sorts the highest-performaing schools by % Overall Passing in descending order.
-![image]
+![image](https://github.com/RachaelCaldwell/pandas-challenge/blob/main/Starter_Code/Images/Highest-Performing%20Schools.png?raw=true)
 
 **Lowest-Performing Schools (by % Overall Passing)** <br>
 A Dataframe that sorts the lowest-performaing schools by % Overall Passing in ascending order.
