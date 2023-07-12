@@ -47,7 +47,7 @@ A Dataframe that sorts the lowest-performaing schools by % Overall Passing in as
 **Math Scores by Grade** <br>
 A DataFrame that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-![image]
+![image](https://github.com/RachaelCaldwell/pandas-challenge/blob/main/Starter_Code/Images/Math%20Scores%20by%20Grade.png?raw=true)
 
 
 **Reading Scores by Grade** <br>
