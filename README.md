@@ -34,7 +34,7 @@ A Dataframe that sorts the highest-performaing schools by % Overall Passing in d
 
 **Lowest-Performing Schools (by % Overall Passing)** <br>
 A Dataframe that sorts the lowest-performaing schools by % Overall Passing in ascending order.
-![image]
+![image](https://github.com/RachaelCaldwell/pandas-challenge/assets/134207637/b6153318-9a80-4b26-adf9-7c1ef2abcfe7)
 
 **Math Scores by Grade** <br>
 A DataFrame that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
