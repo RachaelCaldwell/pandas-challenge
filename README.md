@@ -1,9 +1,9 @@
 # pandas-challenge
-![image](https://github.com/RachaelCaldwell/pandas-challenge/blob/main/Starter_Code/Images/education.png?raw=true) 
-
 The Module 4 Challenge manipulates Pandas DataFrames to:
 * analyze district-wide standardized test results
-* aggregate the standardized testing data to showcase obvious trends in school performance <br><br>
+* aggregate the standardized testing data to showcase obvious trends in school performance
+
+![image](https://github.com/RachaelCaldwell/pandas-challenge/blob/main/Starter_Code/Images/education.png?raw=true)<br>
 
 **District Summary** <br>
 A high-level snapshot of the district's key metrics to include:
