@@ -18,6 +18,7 @@ A high-level snapshot of the district's key metrics to include:
 * % overall passing (the percentage of students who passed math AND reading)
 
 
+
 **School Summary** <br>
 A DataFrame that summarizes key metrics about each school to include:
 * School name
@@ -32,10 +33,12 @@ A DataFrame that summarizes key metrics about each school to include:
 * % overall passing (the percentage of students who passed math AND reading)
 
 
+
 **Highest-Performing Schools (by % Overall Passing)** <br>
 A Dataframe that sorts the highest-performaing schools by % Overall Passing in descending order.
 
 ![image](https://github.com/RachaelCaldwell/pandas-challenge/blob/main/Starter_Code/Images/Highest-Performing%20Schools.png?raw=true)
+
 
 
 **Lowest-Performing Schools (by % Overall Passing)** <br>
@@ -44,16 +47,19 @@ A Dataframe that sorts the lowest-performaing schools by % Overall Passing in as
 ![image](https://github.com/RachaelCaldwell/pandas-challenge/assets/134207637/b6153318-9a80-4b26-adf9-7c1ef2abcfe7)
 
 
+
 **Math Scores by Grade** <br>
 A DataFrame that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 ![image](https://github.com/RachaelCaldwell/pandas-challenge/blob/main/Starter_Code/Images/Math%20Scores%20by%20Grade.png?raw=true)
 
 
+
 **Reading Scores by Grade** <br>
 A DataFrame that lists the average reading score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-![image]
+![image](https://github.com/RachaelCaldwell/pandas-challenge/blob/main/Starter_Code/Images/Reading%20Scores%20by%20Grade.png?raw=true)
+
 
 
 **Scores by School Spending** <br>
@@ -65,10 +71,12 @@ A breakdown of school performance data based on average spending ranges (per stu
 * % overall passing (the percentage of students who passed math AND reading)
 
 
+
 **Scores by School Size** <br>
 A DataFrame that breaks down school performance based on school size (small, medium, or large).
 
 ![image]
+
 
 
 **Scores by School Type** <br>
