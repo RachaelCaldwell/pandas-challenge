@@ -3,8 +3,7 @@
 
 The Module 4 Challenge manipulates Pandas DataFrames to:
 * analyze district-wide standardized test results
-* aggregate the standardized testing data to showcase obvious trends in school performance
-
+* aggregate the standardized testing data to showcase obvious trends in school performance <br><br>
 
 **District Summary** <br>
 A high-level snapshot of the district's key metrics to include:
@@ -66,4 +65,4 @@ A DataFrame that breaks down school performance based on school size (small, med
 **Scores by School Type** <br>
 A DataFrame that shows school performance based on the "School Type".
 
-![image]
+![image](https://github.com/RachaelCaldwell/pandas-challenge/blob/main/Starter_Code/Images/Scores%20by%20School%20Type.png?raw=true)
