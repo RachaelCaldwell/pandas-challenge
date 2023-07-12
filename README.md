@@ -14,7 +14,6 @@ A high-level snapshot of the district's key metrics to include:
 * % passing math (the percentage of students who passed math)
 * % passing reading (the percentage of students who passed reading)
 * % overall passing (the percentage of students who passed math AND reading)
-![image](https://github.com/RachaelCaldwell/pandas-challenge/blob/main/Starter_Code/Images/District%20Summary.png?raw=true)
 
 **School Summary** <br>
 A DataFrame that summarizes key metrics about each school to include:
@@ -28,7 +27,6 @@ A DataFrame that summarizes key metrics about each school to include:
 * % passing math (the percentage of students who passed math)
 * % passing reading (the percentage of students who passed reading)
 * % overall passing (the percentage of students who passed math AND reading)
-![image]
 
 **Highest-Performing Schools (by % Overall Passing)** <br>
 A Dataframe that sorts the highest-performaing schools by % Overall Passing in descending order.
